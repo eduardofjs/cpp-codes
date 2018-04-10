@@ -1,4 +1,4 @@
-// Highest Common Factor or Greatest common divisor
+// Highest Common Factor or Greatest common divisor (MMC)
 
 #include <iostream>
 using namespace std;
